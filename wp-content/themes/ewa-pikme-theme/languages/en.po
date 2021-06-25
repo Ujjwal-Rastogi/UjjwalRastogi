@@ -1,0 +1,452 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-10-17 19:58+0300\n"
+"PO-Revision-Date: 2020-10-17 19:59+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_html_e;esc_attr;"
+"esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:38
+msgid "Categories"
+msgstr ""
+
+#: 404.php:55
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:27
+msgid "All Rights Reserved."
+msgstr ""
+
+#: functions.php:55
+msgid "Primary"
+msgstr ""
+
+#: functions.php:56
+msgid "Footer Company"
+msgstr ""
+
+#: functions.php:57
+msgid "Footer Resources"
+msgstr ""
+
+#: functions.php:141
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:143
+msgid "Add widgets here."
+msgstr ""
+
+#: header.php:68
+msgid "Open Navbar"
+msgstr ""
+
+#: inc/one-click-importer.php:17
+msgid ""
+"After you import this demo, you will have to setup the home page separately"
+msgstr ""
+
+#: inc/pikme-config.php:97 inc/pikme-config.php:98
+msgid "PikMe Options"
+msgstr ""
+
+#: inc/pikme-config.php:200
+msgid "Like us on Facebook"
+msgstr ""
+
+#: inc/pikme-config.php:205
+msgid "Subscribe us on Youtube"
+msgstr ""
+
+#: inc/pikme-config.php:216
+#, php-format
+msgid ""
+"Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong>"
+msgstr ""
+
+#: inc/pikme-config.php:218
+msgid ""
+"This text is displayed above the options panel. It isn't required, but more "
+"info is always better! The intro_text field accepts all HTML."
+msgstr ""
+
+#: inc/pikme-config.php:235
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/pikme-config.php:236 inc/pikme-config.php:241
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: inc/pikme-config.php:240
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/pikme-config.php:247
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: inc/pikme-config.php:275
+msgid "Header"
+msgstr ""
+
+#: inc/pikme-config.php:280 inc/pikme-config.php:288
+msgid "Header Logo"
+msgstr ""
+
+#: inc/pikme-config.php:296
+msgid "Footer"
+msgstr ""
+
+#: inc/pikme-config.php:301 inc/pikme-config.php:309
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/pikme-config.php:316
+msgid "Footer Social"
+msgstr ""
+
+#: inc/pikme-config.php:325
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/pikme-config.php:332
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/pikme-config.php:339
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/pikme-config.php:346
+msgid "Linkedin Link"
+msgstr ""
+
+#: inc/pikme-config.php:355
+msgid "Styling Options"
+msgstr ""
+
+#: inc/pikme-config.php:360
+msgid "Navbar Styling"
+msgstr ""
+
+#: inc/pikme-config.php:370
+msgid "Navbar Color"
+msgstr ""
+
+#: inc/pikme-config.php:378
+msgid "Navbar Hover Color"
+msgstr ""
+
+#: inc/pikme-config.php:385
+msgid "Blog Styling"
+msgstr ""
+
+#: inc/pikme-config.php:398
+msgid "Blog Meta Color"
+msgstr ""
+
+#: inc/pikme-config.php:413
+msgid "Blog Separator Color"
+msgstr ""
+
+#: inc/pikme-config.php:424
+msgid "Blog Title Color"
+msgstr ""
+
+#: inc/pikme-config.php:440
+msgid "Blog Title Border Color"
+msgstr ""
+
+#: inc/pikme-config.php:452
+msgid "Blog Button Text Color"
+msgstr ""
+
+#: inc/pikme-config.php:466
+msgid "Blog Button Hover"
+msgstr ""
+
+#: inc/pikme-config.php:481
+msgid "Blog Button Border Color"
+msgstr ""
+
+#: inc/pikme-config.php:492
+msgid "Blog Sidebar Title Color"
+msgstr ""
+
+#: inc/pikme-config.php:506
+msgid "Blog Sidebar Background"
+msgstr ""
+
+#: inc/pikme-config.php:517
+msgid "Blog Sidebar Button Color"
+msgstr ""
+
+#: inc/pikme-config.php:531
+msgid "Blog Sidebar Button Background"
+msgstr ""
+
+#: inc/pikme-config.php:538
+msgid "Breadcumb Styling"
+msgstr ""
+
+#: inc/pikme-config.php:554
+msgid "Breadcumb Background Color"
+msgstr ""
+
+#: inc/pikme-config.php:562
+msgid "Breadcumb Title Color"
+msgstr ""
+
+#: inc/pikme-config.php:569
+msgid "Footer Styling"
+msgstr ""
+
+#: inc/pikme-config.php:579
+msgid "Footer Background"
+msgstr ""
+
+#: inc/pikme-config.php:590
+msgid "Social Link Color"
+msgstr ""
+
+#: inc/pikme-config.php:596
+msgid "Copyright Text Color"
+msgstr ""
+
+#: inc/pikme-config.php:604
+msgid "Footer Scroll to Top Color"
+msgstr ""
+
+#: inc/pikme-config.php:620
+msgid "Footer Scroll to Top Background"
+msgstr ""
+
+#: inc/pikme-config.php:630
+msgid "Documentation"
+msgstr ""
+
+#: inc/pikme-config.php:745
+msgid "Section via hook"
+msgstr ""
+
+#: inc/pikme-config.php:746
+msgid ""
+"This is a section created by adding a filter to the sections array. Can be "
+"used by child themes to add/remove sections from the options."
+msgstr ""
+
+#: inc/required-plugin-tgm.php:63
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/required-plugin-tgm.php:69
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/required-plugin-tgm.php:75
+msgid "WordPress Importer"
+msgstr ""
+
+#: inc/required-plugin-tgm.php:81
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: inc/required-plugin-tgm.php:87
+msgid "Elementor"
+msgstr ""
+
+#: inc/required-plugin-tgm.php:93
+msgid "EWA Elementor Elements"
+msgstr ""
+
+#: inc/required-plugin-tgm.php:101
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:67
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:85
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:104
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:130 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: index.php:22
+msgid "Our Blog"
+msgstr ""
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-blog.php:48 template-parts/content-search.php:34
+#: template-parts/content.php:66
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-blog.php:52 template-parts/content-page.php:24
+#: template-parts/content-single.php:53 template-parts/content.php:70
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-single.php:42 template-parts/content.php:53
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:120
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:124
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:125
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:126
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:128
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:141
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""

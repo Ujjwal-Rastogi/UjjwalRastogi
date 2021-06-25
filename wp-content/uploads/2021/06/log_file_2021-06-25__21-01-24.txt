@@ -1,0 +1,34 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/ujjwalrastogi
+Data file = C:\wamp64\www\UjjwalRastogi/wp-content/themes/ewa-pikme-theme/demo-data/content.xml
+Widget file = C:\wamp64\www\UjjwalRastogi/wp-content/themes/ewa-pikme-theme/demo-data/widgets.wie
+Customizer file = not defined!
+Redux files:
+pikmewp_options -> C:\wamp64\www\UjjwalRastogi/wp-content/themes/ewa-pikme-theme/demo-data/theme_options.json 
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: pikmewp_options finished successfully!
+
+---ocdi/after_import---
+

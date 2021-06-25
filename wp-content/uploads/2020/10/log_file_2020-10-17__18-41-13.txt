@@ -1,0 +1,30 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://wp.essentialwebapps.com/ewa-pikme
+Data file = /home/essentia4/domains/wp.essentialwebapps.com/public_html/wp-content/themes/ewa-pikme-theme/demo-data/content.xml
+Widget file = /home/essentia4/domains/wp.essentialwebapps.com/public_html/wp-content/themes/ewa-pikme-theme/demo-data/widgets.wie
+Customizer file = not defined!
+Redux files:
+pikmewp_options -> /home/essentia4/domains/wp.essentialwebapps.com/public_html/wp-content/themes/ewa-pikme-theme/demo-data/theme_options.json 
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: pikmewp_options finished successfully!
+
+---pt-ocdi/after_import---
+
